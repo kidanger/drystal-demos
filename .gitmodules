@@ -1,0 +1,15 @@
+[submodule "Chronored"]
+	path = Chronored
+	url = https://github.com/kidanger/Chronored.git
+[submodule "PopTheBalloons"]
+	path = PopTheBalloons
+	url = https://github.com/kidanger/ld27-test.git
+[submodule "Tronnected"]
+	path = Tronnected
+	url = https://github.com/kidanger/LD30.git
+[submodule "nzpt"]
+	path = nzpt
+	url = https://github.com/kidanger/nzpt.git
+[submodule "gisomor"]
+	path = gisomor
+	url = https://github.com/kidanger/gisomor.git
